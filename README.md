@@ -1,16 +1,19 @@
-## Hi there 👋
+💫 About Me:
+Java Full Stack Development projects using Java, Spring Boot, MySQL, React.js, and REST APIs, along with MERN stack applications.
+Full Stack Web Development projects, open-source contributions, and real-world Java or MERN applications.
+Advanced backend architecture, system design, cloud deployment, and scalable application development.
+Spring Boot, Microservices, MongoDB, Node.js, and improving problem-solving & DSA skills.
+Java, OOPs, SQL, Web Development, REST APIs, React.js, MongoDB, and Full Stack Development.
+I can build both Java Full Stack and MERN Stack applications, so I enjoy working on both frontend and backend equally.
 
-<!--
-**extracterrithub/extracterrithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Socials:
+[Facebook](https://facebook.com/Intiyaz Intiyaz) Instagram LinkedIn
 
-Here are some ideas to get you started:
+💻 Tech Stack:
+HTML5 Java JavaScript Bootstrap NodeJS Nodemon Express.js EJS React TailwindCSS MongoDB MySQL Hibernate Git GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 GitHub Stats:
+
+
+
+
